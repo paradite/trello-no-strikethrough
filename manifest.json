@@ -4,7 +4,7 @@
   "name": "Trello No Strikethrough",
   "description": "Removes the strikethrough for completed tasks on Trello",
   "icons": { "128": "icon.png" },
-  "version": "1.0",
+  "version": "1.0.1",
   "background": {
     "page": "popup.html"
   },
