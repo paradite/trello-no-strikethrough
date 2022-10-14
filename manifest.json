@@ -1,10 +1,9 @@
 {
   "manifest_version": 2,
-
   "name": "Trello No Strikethrough",
   "description": "Removes the strikethrough for completed tasks on Trello",
   "icons": { "128": "icon.png" },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "background": {
     "page": "popup.html"
   },
@@ -20,7 +19,6 @@
     }
   ],
   "permissions": [
-    "activeTab",
     "https://trello.com/*"
   ]
 }
